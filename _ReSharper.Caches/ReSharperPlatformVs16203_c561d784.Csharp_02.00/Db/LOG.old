@@ -1,0 +1,36 @@
+2021/03/06-13:15:13.331 1ca54 Delete type=3 #1
+2021/03/06-13:15:17.187 1cb34 Level-0 table #5: started
+2021/03/06-13:15:17.275 1cb34 Level-0 table #5: 6596299 bytes OK
+2021/03/06-13:15:17.281 1cb34 Delete type=0 #3
+2021/03/06-13:15:18.234 1cb34 Level-0 table #7: started
+2021/03/06-13:15:18.299 1cb34 Level-0 table #7: 5056867 bytes OK
+2021/03/06-13:15:18.302 1cb34 Delete type=0 #4
+2021/03/06-13:15:19.203 1cb34 Level-0 table #9: started
+2021/03/06-13:15:19.274 1cb34 Level-0 table #9: 4996528 bytes OK
+2021/03/06-13:15:19.278 1cb34 Delete type=0 #6
+2021/03/06-13:15:20.492 1cb34 Compacting 1@0 + 1@1 files
+2021/03/06-13:15:20.545 1cb34 Generated table #10: 177 keys, 2107211 bytes
+2021/03/06-13:15:20.567 1cb34 Generated table #11: 711 keys, 1075202 bytes
+2021/03/06-13:15:20.567 1cb34 Compacted 1@0 + 1@1 files => 3182413 bytes
+2021/03/06-13:15:20.569 1cb34 Delete type=2 #7
+2021/03/06-13:15:20.570 1cb34 Delete type=2 #9
+2021/03/06-13:15:20.571 1cb34 compacted to: files[ 0 2 1 0 0 0 0 ]
+2021/03/06-13:15:20.806 1cb34 Expanding@1 1+1 to 2+1
+2021/03/06-13:15:20.806 1cb34 Compacting 2@1 + 1@2 files
+2021/03/06-13:15:20.838 1cb34 Generated table #12: 432 keys, 2160189 bytes
+2021/03/06-13:15:20.871 1cb34 Generated table #13: 186 keys, 2105334 bytes
+2021/03/06-13:15:20.902 1cb34 Generated table #14: 1591 keys, 1040408 bytes
+2021/03/06-13:15:20.902 1cb34 Compacted 2@1 + 1@2 files => 5305931 bytes
+2021/03/06-13:15:20.904 1cb34 Delete type=2 #5
+2021/03/06-13:15:20.906 1cb34 Delete type=2 #10
+2021/03/06-13:15:20.907 1cb34 Delete type=2 #11
+2021/03/06-13:15:20.908 1cb34 compacted to: files[ 0 0 3 0 0 0 0 ]
+2021/03/06-13:15:22.065 1cb34 Level-0 table #16: started
+2021/03/06-13:15:22.136 1cb34 Level-0 table #16: 6108485 bytes OK
+2021/03/06-13:15:22.140 1cb34 Delete type=0 #8
+2021/03/06-13:15:22.996 1cb34 Level-0 table #18: started
+2021/03/06-13:15:23.053 1cb34 Level-0 table #18: 5014287 bytes OK
+2021/03/06-13:15:23.055 1cb34 Delete type=0 #15
+2021/03/06-13:18:47.766 1cb34 Level-0 table #20: started
+2021/03/06-13:18:47.830 1cb34 Level-0 table #20: 4199965 bytes OK
+2021/03/06-13:18:47.836 1cb34 Delete type=0 #17
