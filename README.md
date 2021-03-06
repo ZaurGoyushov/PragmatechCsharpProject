@@ -24,10 +24,10 @@ Csharp-02 , start  06/03/21
 
 ## Tələbə dəyərləndirmə qaydaları
 ### Bütün Pragmatech Tələbələrinə Şamil olunan qaydalar
-- Tələbənin həftəlik kod fəliyyətinin dəyərləndirilməsi həftənin şənbə və bazar günlərində aparılır.
-- Həftəlik dəyərləndirmə nəticələri tələbəni mail adresinə göndərilir.
-- Tələbə bütün kod fəaliyyətini iştirak etdiyi proqram adına uyğun olaraq 'Pragmatech(ProqramAdı)Project' reposunda cəmləşdirməlidir (Başqa repoda olan kodlar dəyərləndirməyə alınmayacaq)
-- Dəyərləndirmə meyarları aşağdakılardır
+    - Tələbənin həftəlik kod fəliyyətinin dəyərləndirilməsi həftənin şənbə və bazar günlərində aparılır.
+    - Həftəlik dəyərləndirmə nəticələri tələbəni mail adresinə göndərilir.
+    - Tələbə bütün kod fəaliyyətini iştirak etdiyi proqram adına uyğun olaraq 'Pragmatech(ProqramAdı)Project' reposunda cəmləşdirməlidir (Başqa repoda olan kodlar      dəyərləndirməyə alınmayacaq)
+    - Dəyərləndirmə meyarları aşağdakılardır
 
     1. Kod Analizi (60/100)
         - Tələbənin o həftə olan dərsləri və müəllimin verdiyi tapşırıqların nəticə olan kodlar analiz olunur. 
