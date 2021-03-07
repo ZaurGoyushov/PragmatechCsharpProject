@@ -5,8 +5,8 @@ Csharp-02 , start  06/03/21
 
 | Gün  | Saat |
 | ------------- | ------------- |
-| Şənbə  | 10:30-10:00  | 
-| Bazar  | 06:00-10:00 |
+| Şənbə  | 10:30-13:30  | 
+| Bazar  | 10:30-13:30  |
 
 # Stundent list
 - [Fərid Məmmədli](https://github.com/Ferid-Memmedli/PragmatechCsharpProject)
