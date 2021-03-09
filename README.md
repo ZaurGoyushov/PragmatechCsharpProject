@@ -60,7 +60,14 @@ Csharp-02 , start  06/03/21
 # Csharp-02-Week01-Day02 13/03/22
 
 ## Topics
-    - 
+    - Microsoft Intermediate Language (MSIL) or Intermediate Language (IL)
+    - Common Language Runtime (CLR)
+    - Just in Time (JIT)
+    - Console Application Intro
+    - Console.Write(), Console.WriteLine(), Console.ReadLine()
+    - Main method
+    - Debugging
+    - C# Coding Standards and Naming Conventions
 
 ## Resources
 - [C# Coding Standards and Naming Conventions](https://github.com/ktaranov/naming-convention/blob/master/C%23%20Coding%20Standards%20and%20Naming%20Conventions.md)
