@@ -43,7 +43,7 @@ Csharp-02 , start  06/03/21
 # Csharp-02-Week01-Day01 06/03/21
 .................................
 
-# Csharp-02-Week02-Day01 06/03/22
+# Csharp-02-Week01-Day01 06/03/22
 
 ## Topics
     - C# haqqinda umumi melumat
@@ -57,7 +57,7 @@ Csharp-02 , start  06/03/21
 - [Tutorialspoint](https://www.tutorialspoint.com/csharp/index.htm)
 
 
-# Csharp-02-Week01-Day02 13/03/22
+# Csharp-02-Week02-Day02 13/03/22
 
 ## Topics
     - Microsoft Intermediate Language (MSIL) or Intermediate Language (IL)
