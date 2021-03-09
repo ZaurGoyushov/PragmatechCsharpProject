@@ -14,7 +14,7 @@ Csharp-02 , start  06/03/21
 - [Kamran Hacılı](https://github.com/KHajili98/PragmatechCsharpProject)
 - [Əvəz Əliyev](https://github.com/aliyev1997/PragmatechCsharpProject)
 - [Rəşad Məmmədov](https://github.com/rashadmemmedov/PragmatechCsharpProject.git)
-- [Zaur Göyüşov]
+- [Zaur Göyüşov](https://github.com/ZaurGoyushov/PragmatechCsharpProject)
 
 
 # C#
