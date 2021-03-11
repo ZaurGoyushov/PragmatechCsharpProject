@@ -43,6 +43,16 @@ Csharp-02 , start  06/03/21
 # Csharp-02-Week01-Day01 06/03/21
 .................................
 
+<details>
+<summary><h1># Csharp-02-Week02-Day02 13/03/22</h1></summary>
+### Topics
+    - C# haqqinda umumi melumat
+    - .Net Framework ve .Net Core haqqinda melumat ve arasindaki ferqler
+    - Compiler Haqqinda
+    - [Visual Studio IDE nin yuklenmesi](https://visualstudio.microsoft.com/tr/)
+    - Visual Studio ile tanisliq , github reposunun clone edilmesi , yeni proyektin yaradilmasi , run edilmesi ve sair
+</details>
+
 # Csharp-02-Week01-Day01 06/03/22
 
 ## Topics
