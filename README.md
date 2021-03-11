@@ -22,21 +22,21 @@ Csharp-02 , start  06/03/21
 
 # Week01-Day02 06/03/22
 
-## Topics
+### Topics
     - C# haqqinda umumi melumat
     - .Net Framework ve .Net Core haqqinda melumat ve arasindaki ferqler
     - Compiler Haqqinda
     - [Visual Studio IDE nin yuklenmesi](https://visualstudio.microsoft.com/tr/)
     - Visual Studio ile tanisliq , github reposunun clone edilmesi , yeni proyektin yaradilmasi , run edilmesi ve sair
 
-## Resources
+### Resources
 - [Tutorial Teacher](https://www.tutorialsteacher.com/csharp/csharp-tutorials)
 - [Tutorialspoint](https://www.tutorialspoint.com/csharp/index.htm)
 
 
 # Week02-Day01 13/03/22
 
-## Topics
+### Topics
     - Microsoft Intermediate Language (MSIL) or Intermediate Language (IL)
     - Common Language Runtime (CLR)
     - Just in Time (JIT)
@@ -49,5 +49,5 @@ Csharp-02 , start  06/03/21
     - C# Coding Standards and Naming Conventions
     - Comment, #region , todo ( task list)
 
-## Resources
+### Resources
 - [C# Coding Standards and Naming Conventions](https://github.com/ktaranov/naming-convention/blob/master/C%23%20Coding%20Standards%20and%20Naming%20Conventions.md)
