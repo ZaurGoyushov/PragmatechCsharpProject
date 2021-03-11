@@ -43,16 +43,6 @@ Csharp-02 , start  06/03/21
 # Csharp-02-Week01-Day01 06/03/21
 .................................
 
-<details>
-<summary><b> testtCsharp-02-Week02-Day02 13/03/22</b></summary>
-## Topics
-    - C# haqqinda umumi melumat
-    - .Net Framework ve .Net Core haqqinda melumat ve arasindaki ferqler
-    - Compiler Haqqinda
-    - [Visual Studio IDE nin yuklenmesi](https://visualstudio.microsoft.com/tr/)
-    - Visual Studio ile tanisliq , github reposunun clone edilmesi , yeni proyektin yaradilmasi , run edilmesi ve sair
-</details>
-
 # Csharp-02-Week01-Day02 06/03/22
 
 ## Topics
@@ -75,9 +65,12 @@ Csharp-02 , start  06/03/21
     - Just in Time (JIT)
     - Console Application Intro
     - Console.Write(), Console.WriteLine(), Console.ReadLine()
+    - Program.cs
     - Main method
+    - c# 9.0 Main Method Top Level Statements
     - Debugging
     - C# Coding Standards and Naming Conventions
+    - Comment, #region , todo ( task list)
 
 ## Resources
 - [C# Coding Standards and Naming Conventions](https://github.com/ktaranov/naming-convention/blob/master/C%23%20Coding%20Standards%20and%20Naming%20Conventions.md)
