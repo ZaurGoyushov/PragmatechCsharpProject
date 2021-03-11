@@ -44,8 +44,8 @@ Csharp-02 , start  06/03/21
 .................................
 
 <details>
-<summary><h1># Csharp-02-Week02-Day02 13/03/22</h1></summary>
-### Topics
+<summary><b> testtCsharp-02-Week02-Day02 13/03/22</b></summary>
+## Topics
     - C# haqqinda umumi melumat
     - .Net Framework ve .Net Core haqqinda melumat ve arasindaki ferqler
     - Compiler Haqqinda
@@ -53,7 +53,7 @@ Csharp-02 , start  06/03/21
     - Visual Studio ile tanisliq , github reposunun clone edilmesi , yeni proyektin yaradilmasi , run edilmesi ve sair
 </details>
 
-# Csharp-02-Week01-Day01 06/03/22
+# Csharp-02-Week01-Day02 06/03/22
 
 ## Topics
     - C# haqqinda umumi melumat
@@ -67,7 +67,7 @@ Csharp-02 , start  06/03/21
 - [Tutorialspoint](https://www.tutorialspoint.com/csharp/index.htm)
 
 
-# Csharp-02-Week02-Day02 13/03/22
+# Csharp-02-Week02-Day01 13/03/22
 
 ## Topics
     - Microsoft Intermediate Language (MSIL) or Intermediate Language (IL)
@@ -81,8 +81,3 @@ Csharp-02 , start  06/03/21
 
 ## Resources
 - [C# Coding Standards and Naming Conventions](https://github.com/ktaranov/naming-convention/blob/master/C%23%20Coding%20Standards%20and%20Naming%20Conventions.md)
-
-<details>
-<p><b></b></p><summary><b># Csharp-02-Week02-Day02 13/03/22</b></summary>
-
-</details>
