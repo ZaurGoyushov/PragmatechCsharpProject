@@ -40,10 +40,10 @@ Csharp-02 , start  06/03/21
         - Yazdığı texniki məqalələr
         - Dərsdən əlavə həlletdiyi algoritmik problemlər
 
-# Csharp-02-Week01-Day01 06/03/21
+# Week01-Day01 06/03/21
 .................................
 
-# Csharp-02-Week01-Day02 06/03/22
+# Week01-Day02 06/03/22
 
 ## Topics
     - C# haqqinda umumi melumat
@@ -57,7 +57,7 @@ Csharp-02 , start  06/03/21
 - [Tutorialspoint](https://www.tutorialspoint.com/csharp/index.htm)
 
 
-# Csharp-02-Week02-Day01 13/03/22
+# Week02-Day01 13/03/22
 
 ## Topics
     - Microsoft Intermediate Language (MSIL) or Intermediate Language (IL)
