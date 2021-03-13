@@ -48,6 +48,8 @@ Csharp-02 , start  06/03/21
     - Debugging
     - C# Coding Standards and Naming Conventions
     - Comment, #region , todo ( task list)
+    - C# - Keywords
+    - C# - Data Types
 
 ### Resources
 - [C# Coding Standards and Naming Conventions](https://github.com/ktaranov/naming-convention/blob/master/C%23%20Coding%20Standards%20and%20Naming%20Conventions.md)
