@@ -53,3 +53,26 @@ Csharp-02 , start  06/03/21
 
 ### Resources
 - [C# Coding Standards and Naming Conventions](https://github.com/ktaranov/naming-convention/blob/master/C%23%20Coding%20Standards%20and%20Naming%20Conventions.md)
+
+# Week02-Day02 14/03/22
+
+### Topics
+    - Basic Syntax
+    - Data Types
+    - Value types
+    - Reference types 
+    - Variables  
+    - Defining Variables
+    - Initializing Variables
+    - Type Conversion
+    - Implicit type conversion
+    - Explicit type conversion
+    - Type Conversion Methods
+    - Convert metod
+    - Parse metod
+    - Special Conversion (bool, char)
+    
+### Tasks
+    - [C# - Operators](https://www.tutorialspoint.com/csharp/csharp_operators.htm)
+    - [C# - Decision Making](https://www.tutorialspoint.com/csharp/csharp_decision_making.htm)
+
