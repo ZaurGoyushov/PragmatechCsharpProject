@@ -65,8 +65,8 @@ Csharp-02 , start  06/03/21
     - Defining Variables
     - Initializing Variables
     - Type Conversion
-    - Implicit type conversion
-    - Explicit type conversion
+    - Implicit casting
+    - Explicit casting
     - Type Conversion Methods
     - Convert metod
     - Parse metod
