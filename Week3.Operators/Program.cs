@@ -154,8 +154,12 @@ namespace Week3.Operators
              * reference typelarda
              * bool tipinde deyer qaytarir
              */
-            string a = "";
-            Console.WriteLine(a is null);
+            //string a = "aaaaaa";
+            //Console.WriteLine(a is null);
+            //string b = "";
+            //Console.WriteLine(b is null);
+            //string c=null;
+            //Console.WriteLine(c is null);
             #endregion
 
             #region is not null operatoru
@@ -205,7 +209,6 @@ namespace Week3.Operators
              */
             //Console.WriteLine(id ?? =4);
             #endregion
-
 
             Console.ReadLine();
         }
