@@ -6,7 +6,11 @@ namespace Week3.DecisionMaking
     {
         static void Main(string[] args)
         {
-            #region if else else if 
+            #region if else else if
+
+            #region examples
+
+            #region week3,day1- 27.03.21
             /*
              * &&
              * ||
@@ -94,14 +98,75 @@ namespace Week3.DecisionMaking
             //    Console.WriteLine(" 200 -400 araligi");
             //}
 
+
+            #endregion
+
+            #region week3,day2- 28.03.21
+
+            #region calculator
+            /*
+            * menu
+            *
+            * 1- Toplama
+            * 2- Cixma
+            * 3- Vurma
+            * 4- Bolme
+            *
+            * qeyd: bolen 0 ola bilmez;
+            */
+
+            #endregion
+
+            #endregion
+
+            #endregion
+
             #region skopsuz istifade
 
             //if (a > 200 && a <= 300)
-                //Console.WriteLine("200 -300");
+            //Console.WriteLine("200 -300");
             //Console.WriteLine("200 -300");
 
 
             #endregion
+            #endregion
+
+            #region switch case
+
+
+
+
+            #endregion
+
+            #region Task
+
+            #region 1
+
+            /*
+            * Bal Ortalamasinin Hesablanmasi
+            *
+            * istifadeciden ad ve soyadini ,
+            *  4 eded imtahan neticesini daxil etmesini isteyirik.
+            *
+            * netice asagidaki kimi olmalidir
+            *
+            * Ad ve Soyad : Parviz Aliyev
+            *
+            * Netice : 50
+            * Netice : 40
+            * Netice : 30
+            * Netice : 20
+            *
+            * Ortalama : 35
+            */
+
+            #endregion
+
+            #region 2
+
+            #endregion
+
+
             #endregion
         }
     }
