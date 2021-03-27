@@ -131,7 +131,22 @@ Csharp-02 , start  06/03/21
 # Week03-Day01 27/03/21
 
 ### Topics
-    - 
+    - C# - Operators
+    - Arithmetic Operators
+    - Relational Operators
+    - Logical Operators
+    - string ifadeler-de + , += , == opretatorlarinin istifadesi
+    - Deyil ! != beraber deyilse
+    - Ternary Operators
+    - Member access .
+    - TypeOf operator
+    - Default operator
+    - is operator
+    - is null , is not null
+    - as operator
+    - ? Nullable , ?? Null Coalescing, ??= Null Coalescing
+    - C# - Decision Making
+    - If Else , Else If statement
     
 ### Tasks
    - 
