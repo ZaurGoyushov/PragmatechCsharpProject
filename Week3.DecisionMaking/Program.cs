@@ -132,9 +132,80 @@ namespace Week3.DecisionMaking
             #endregion
 
             #region switch case
+            /*
+             * beraberlik muqayisesi zamani daha cox istifade edilir.
+             *
+             * caselerdeki deyerler deyisenlerden alinmir
+             *
+             * caselerin sirasi onemli deyil
+             */
+
+
+            /*
+             * istifadeciden gelen aylarin yoxlanilmasi
+             *
+             */
+
+
+            /*
+            * switch casede  bir nece case elave etmek olur bu zaman ||
+            * ve ya serti yerine yetirili bu ve ya o 
+            */
+
+
+            #region when istifadesi
+
+            /*
+             * normal switchde ancaq beraberlik yoxlaya bilirik
+             * ferqli sertler ucun when istifade edilir.
+             *
+             */
+
+
+            #endregion
+
+            #region go to istifadesi
+
+            /*
+             * beraberlik yoxlanilir deye locigal emeliyyatlar ucun
+             *
+             * ferqli caselerde eyni emeliyyat(kod ) istifade olunursa
+             * kod tekrari olmasin deye go to ile birini sece bilirik.
+             *  caseler arasinda kecid
+             * go to ile break silinir;
+             */
 
 
 
+            // multiple go to 
+
+            #endregion
+
+            #region switch expressions c# 8.0
+            /*
+             * Heftenin gunleri
+             */
+            //string message = "";
+
+
+            // expressions
+
+
+            #region when / expressions
+
+            //int total = 100;
+
+            //string result = total switch
+            //{
+            //    5 when 3 == 3 => "true",
+            //    var xTotal when xTotal > 100 && xTotal % 2 == 0 => "false",
+            //    var x=>"default" // default
+            //};
+
+
+            #endregion
+
+            #endregion
 
             #endregion
 
