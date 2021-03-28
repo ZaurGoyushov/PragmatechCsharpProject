@@ -22,22 +22,78 @@ namespace Week3.Loops
              */
             #region for
 
-           
+            //Console.WriteLine("hello world");
+            //Console.WriteLine("hello world");
+            //Console.WriteLine("hello world");
+            //Console.WriteLine("hello world");
+            //Console.WriteLine("hello world");
+            //Console.WriteLine("hello world");
+            //Console.WriteLine("hello world");
+            //Console.WriteLine("hello world");
+            //Console.WriteLine("hello world");
+            //Console.WriteLine("hello world");
+            //Console.WriteLine("hello world");
+            //int i = 0;
+
+            //Console.WriteLine(i++); 
+            //Console.WriteLine(++i);
+            //for (int i = 1; i <= 10; i++)
+            //{
+            //    Console.WriteLine(i);
+            //}
+
 
             #region 1-10 qeder ededleri sirala
 
-            
-
+            //for (int i = 1; i < 10; i++)
+            //{
+            //    Console.WriteLine(i);
+            //}
             #endregion
 
             #region 1 ile 40 arasinda cut ededlerin cemi
 
-           
+            //var total = 0;
+
+            //for (int i = 1; i <= 40; i++)
+            //{
+
+            //    if (i % 2 == 0)
+            //        total += i;
+            //    //total = total +i;
+            //}
+
+            //Console.WriteLine(total);
             #endregion
 
             #region girilen deyerin faktorialini tapin
+            /*
+             * 5!
+             */
+            //int number = 5;
 
-            
+            //int factorial = 1;
+
+            // 1*1*2*3*4*5
+            //for (int i = 1; i <= number; i++)
+            //{
+            //    factorial *= i;
+            //}
+            // 1*2*3*4*5
+            //for (int i = 2; i <= number; i++)
+            //{
+            //    factorial *= i;
+            //}
+
+            // 2ci variant Kamran
+            //int factorial = 5;
+            //for (int i = factorial - 1; i >= 1; i--)
+            //{
+            //    factorial *= i;
+            //}
+            //Console.WriteLine(factorial);
+
+            //Console.WriteLine(factorial);
             #endregion
 
             #endregion
@@ -49,19 +105,41 @@ namespace Week3.Loops
              */
 
             #region while ve for qarsilastirma
+            //for (int i = 0 , j=0; i < UPPER; i++)
+            //{
 
-            
+
+            //}
+            //int i = 0;
+            //while (i<=10)
+            //{
+
+            //    Console.WriteLine(i);
+            //    //result += i++;
+            //    i++;
+
+            //}
+
+            //while (false)
+            //{
+            //    Console.WriteLine("while");
+            //}
+
+            //do
+            //{
+            //    Console.WriteLine("do while");
+            //} while (false);
             #region consoledan daxil edilen ededden geriye dogru loop
 
             #endregion
 
             #region 0 ile 100 arasindaki tek ededlerin cemi
 
-            
+
             #endregion
 
             #region faktorial
-           
+
             #endregion
 
             #region while aid numune
@@ -97,8 +175,16 @@ namespace Week3.Loops
              *
              *
              */
-            
 
+            //while (false)
+            //{
+            //    Console.WriteLine("while");
+            //}
+
+            //do
+            //{
+            //    Console.WriteLine("do while");
+            //} while (false);
             #endregion
 
             #region skopsuz loop
@@ -153,6 +239,18 @@ namespace Week3.Loops
 
             #region nested loop - ic ice looplar
 
+            //for (int i = 0; i < UPPER; i++)
+            //{
+            //    for (int j = 0; j < ; j++)
+            //    {
+
+            //    }
+
+            //    while (expression)
+            //    {
+
+            //    }
+            //}
 
             #endregion
 
