@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq.Expressions;
 
 namespace Week3.DecisionMaking
 {
@@ -115,6 +116,51 @@ namespace Week3.DecisionMaking
             * qeyd: bolen 0 ola bilmez;
             */
 
+            //Console.WriteLine("----Menu-----");
+            //Console.WriteLine("1- Toplama:");
+            //Console.WriteLine("2- Cixma:");
+            //Console.WriteLine("3- Vurma:");
+            //Console.WriteLine("4- Bolme:");
+            //Console.WriteLine("----Menu-----");
+
+            //Console.Write("Emeliyyat nomresini daxil edin: ");
+            //int operation = Convert.ToInt32(Console.ReadLine());
+
+            //if (operation == 1 ||
+            //    operation == 2 ||
+            //    operation == 3 ||
+            //    operation == 4)
+            //{
+            //    Console.Write(" birinci reqemi daxil et :");
+            //    decimal number1 = Convert.ToDecimal(Console.ReadLine());
+            //    Console.Write(" ikinci reqemi daxil et :");
+            //    decimal number2 = Convert.ToDecimal(Console.ReadLine());
+
+            //    if (operation ==1)
+            //    {
+            //        Console.WriteLine("Netice : {0}",(number1+number2));
+            //    }else if (operation == 2)
+            //    {
+            //        Console.WriteLine("Netice : {0}", (number1 - number2));
+
+            //    }else if (operation == 3)
+            //    {
+            //        Console.WriteLine("Netice : {0}", (number1 * number2));
+
+            //    }else if (operation == 4)
+            //    {
+            //        if(number2== 0)
+            //            Console.WriteLine("qeyd: bolen 0 ola bilmez");
+            //        else
+            //            Console.WriteLine("Netice : {0}", (number1 / number2));
+            //    }
+            //}
+            //else
+            //{
+            //    Console.WriteLine("duzgun emeliyyat daxil edilmeyib");
+            //}
+
+
             #endregion
 
             #endregion
@@ -129,9 +175,11 @@ namespace Week3.DecisionMaking
 
 
             #endregion
+
             #endregion
 
             #region switch case
+
             /*
              * beraberlik muqayisesi zamani daha cox istifade edilir.
              *
@@ -139,12 +187,30 @@ namespace Week3.DecisionMaking
              *
              * caselerin sirasi onemli deyil
              */
+            //if ()
+            //{
 
-
+            //}
             /*
              * istifadeciden gelen aylarin yoxlanilmasi
              *
-             */
+            // */
+            //string month = "Yanvar";
+
+            //switch (month)
+            //{
+            //    case "Fevral":
+            //        Console.WriteLine("Fevral");
+            //        break;
+            //    case "Yanvar":
+            //        Console.WriteLine("Yanvar");
+            //        break;
+            //    default:
+            //        Console.WriteLine("hec biri deyil");
+            //        break;
+               
+            //}
+
 
 
             /*
@@ -160,7 +226,14 @@ namespace Week3.DecisionMaking
              * ferqli sertler ucun when istifade edilir.
              *
              */
+            int total = 100;
 
+            switch (total)
+            {
+                case 100 when ( total == 200):
+                    Console.WriteLine("100");
+                    break;
+            }
 
             #endregion
 
@@ -174,18 +247,55 @@ namespace Week3.DecisionMaking
              *  caseler arasinda kecid
              * go to ile break silinir;
              */
+            //string month = "Yanvar";
+            //string month1 = "yanvar";
 
+            //switch (month)
+            //{
+            //    case "Yanvar":
+            //        Console.WriteLine("Yanvar");
+            //        break;
+            //    case "yanvar":
+            //        goto case "Yanvar";
+
+            //    default:
+            //        Console.WriteLine("hec biri deyil");
+            //        break;
+
+            //}
 
 
             // multiple go to 
+            //switch (month)
+            //{
+            //    case "Yanvar":
+            //        Console.WriteLine("Yanvar");
+            //        break;
+            //    case "yanvar":
+            //    case "Fevral":
+            //        goto case "Yanvar";
 
+            //    default:
+            //        Console.WriteLine("hec biri deyil");
+            //        break;
+
+            //}
             #endregion
 
             #region switch expressions c# 8.0
+
             /*
              * Heftenin gunleri
              */
-            //string message = "";
+            //string message = "Monday";
+
+            //string message = DateTime.Now.DayOfWeek switch
+            //{
+            //    DayOfWeek.Monday => "Bazar ertesi",
+            //    DayOfWeek.Tuesday => "Cersenbe Axsami",
+            //    DayOfWeek.Wednesday => "Cersenbe",
+            //    DayOfWeek.Thursday => "Cume Axsami",
+            //};
 
 
             // expressions
@@ -199,7 +309,7 @@ namespace Week3.DecisionMaking
             //{
             //    5 when 3 == 3 => "true",
             //    var xTotal when xTotal > 100 && xTotal % 2 == 0 => "false",
-            //    var x=>"default" // default
+            //    var x => "default" // default
             //};
 
 
