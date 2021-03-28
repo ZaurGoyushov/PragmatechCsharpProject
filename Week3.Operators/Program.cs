@@ -116,7 +116,7 @@ namespace Week3.Operators
 
             #region typeof operatoru
             /*
-             * typeOf
+             * typeOf tiplere aid melumatlari verir
              */
             //Type t = typeof(int);
             //Console.WriteLine(t.IsPrimitive);
@@ -127,7 +127,7 @@ namespace Week3.Operators
 
             #region default operatoru
             /*
-             * default  
+             * default  her hansisa tipe onceden teyin edilen deyeri default deyeri verir
              */
             //Console.WriteLine(default(int));
             //Console.WriteLine(default(byte));
@@ -172,7 +172,8 @@ namespace Week3.Operators
 
             #region as operatoru
             /*
-             *
+             * () cast operatoruna alternativ olaraq istifade edilir
+             * ferqi xeta mesaji vermeden null qaytarir.
              */
             //object x = 100;
             //int y = (int) x;
@@ -183,7 +184,7 @@ namespace Week3.Operators
 
             #region ? (Nullable) Operatoru
             /*
-             *
+             * her hansisa tipin deyerinin null olmasini temin edir
              */
 
             //int? id = 0;
@@ -191,7 +192,7 @@ namespace Week3.Operators
 
             #region ?? null coalescing operatoru
             /*
-             *
+             * null olamagini yoxlayib deyer verir
              */
             //int? id = null;
 
