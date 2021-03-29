@@ -148,13 +148,25 @@ Csharp-02 , start  06/03/21
     - C# - Decision Making
     - If Else , Else If statement
     
-### Tasks
-   - 
 
 # Week03-Day02 28/03/21
 
 ### Topics
-    - 
+    - C# - Decision Making
+    - If Else statement
+    - Ternary Operator ?:
+    - Switch Statement
+    - Switch Statement : goto
+    - Switch Statement : when
+    - Switch expressions c# 8.0
+    - C# - Loops
+    -  - for Loop
+    -  - while Loop
+    -  - do while Loop
+    -  - nested loop
+    -  - infinite loop
+
+
     
 ### Tasks
    -
