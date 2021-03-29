@@ -169,5 +169,5 @@ Csharp-02 , start  06/03/21
 
     
 ### Tasks
-   -
+   - [Week3.Tasks](https://github.com/PragmatechEducation/CSharp_02/blob/main/Week3.Tasks/Program.cs)
 
