@@ -319,36 +319,7 @@ namespace Week3.DecisionMaking
 
             #endregion
 
-            #region Task
-
-            #region 1
-
-            /*
-            * Bal Ortalamasinin Hesablanmasi
-            *
-            * istifadeciden ad ve soyadini ,
-            *  4 eded imtahan neticesini daxil etmesini isteyirik.
-            *
-            * netice asagidaki kimi olmalidir
-            *
-            * Ad ve Soyad : Parviz Aliyev
-            *
-            * Netice : 50
-            * Netice : 40
-            * Netice : 30
-            * Netice : 20
-            *
-            * Ortalama : 35
-            */
-
-            #endregion
-
-            #region 2
-
-            #endregion
-
-
-            #endregion
+           
         }
     }
 }
