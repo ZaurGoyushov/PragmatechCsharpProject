@@ -132,7 +132,7 @@ namespace Week3.Tasks
             #region 6. calculator : switch
             /*
              * switch istifade ederek calculator yazin
-             *test
+             *test1
              * qeyd: hem normal switchden istifade edin hem de expressionla olan variantla
              */
             #endregion
