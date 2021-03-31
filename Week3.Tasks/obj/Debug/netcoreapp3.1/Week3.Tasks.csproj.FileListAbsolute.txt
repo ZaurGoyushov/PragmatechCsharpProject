@@ -1,0 +1,13 @@
+C:\Users\Pragmatech\source\repos\Week3.Task\Week3.Tasks\bin\Debug\netcoreapp3.1\Week3.Tasks.exe
+C:\Users\Pragmatech\source\repos\Week3.Task\Week3.Tasks\bin\Debug\netcoreapp3.1\Week3.Tasks.deps.json
+C:\Users\Pragmatech\source\repos\Week3.Task\Week3.Tasks\bin\Debug\netcoreapp3.1\Week3.Tasks.runtimeconfig.json
+C:\Users\Pragmatech\source\repos\Week3.Task\Week3.Tasks\bin\Debug\netcoreapp3.1\Week3.Tasks.runtimeconfig.dev.json
+C:\Users\Pragmatech\source\repos\Week3.Task\Week3.Tasks\bin\Debug\netcoreapp3.1\Week3.Tasks.dll
+C:\Users\Pragmatech\source\repos\Week3.Task\Week3.Tasks\bin\Debug\netcoreapp3.1\Week3.Tasks.pdb
+C:\Users\Pragmatech\source\repos\Week3.Task\Week3.Tasks\obj\Debug\netcoreapp3.1\Week3.Tasks.csprojAssemblyReference.cache
+C:\Users\Pragmatech\source\repos\Week3.Task\Week3.Tasks\obj\Debug\netcoreapp3.1\Week3.Tasks.AssemblyInfoInputs.cache
+C:\Users\Pragmatech\source\repos\Week3.Task\Week3.Tasks\obj\Debug\netcoreapp3.1\Week3.Tasks.AssemblyInfo.cs
+C:\Users\Pragmatech\source\repos\Week3.Task\Week3.Tasks\obj\Debug\netcoreapp3.1\Week3.Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Pragmatech\source\repos\Week3.Task\Week3.Tasks\obj\Debug\netcoreapp3.1\Week3.Tasks.dll
+C:\Users\Pragmatech\source\repos\Week3.Task\Week3.Tasks\obj\Debug\netcoreapp3.1\Week3.Tasks.pdb
+C:\Users\Pragmatech\source\repos\Week3.Task\Week3.Tasks\obj\Debug\netcoreapp3.1\Week3.Tasks.genruntimeconfig.cache

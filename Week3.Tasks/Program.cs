@@ -78,14 +78,48 @@ namespace Week3.Tasks
 
             #region 2. while ile consoledan daxil edilen ededden geriye dogru loop
 
+            /*
+               
+            Console.Write("Daxil edilecek eded :");
+            var eded = Convert.ToInt32(Console.ReadLine());
+            while (eded >=0)
+            {
+                Console.WriteLine(eded);
+                eded--;
+            }
+            */
+            
+
             #endregion
 
             #region 3. while ile 0 ile 100 arasindaki tek ededlerin cemi
-
-
+            /*
+            var i = 0;
+            var netice = 0;
+            while (i <= 99)
+            {
+                if(i%2 != 0)
+                {
+                    netice += i;
+                }
+                i++;
+            }
+            Console.Write("0 ile 100 arasindaki tek ededlerin cemi : "+netice);
+            */
             #endregion
 
             #region 4. while ile faktorialin hesablanmasi
+
+             /*
+            var factorial = 1;
+            var netice = 1;
+            while (factorial <=7)
+            {
+                netice *= factorial;
+                factorial++;
+            }
+            Console.WriteLine(netice);
+            */
 
             #endregion
 
@@ -167,7 +201,7 @@ namespace Week3.Tasks
              *  asagidakilardan hansi uygun gelir ?
              *
              *  num1 deyeri num2 deyerinden kicikdir ve bool tipinde olan result
-             *  deyiseni bu iki deyerin muqayisesinden false deyerini alir.
+             *  deyiseni bu iki deyerin muqayisesinden false deyerini alir. +++++++++++
              *
              * num1 deyeri num2 deyerine beraberdir ve bool tipinde olan result
              *  deyiseni true-dur.
@@ -182,7 +216,7 @@ namespace Week3.Tasks
              *    Console.WriteLine(result);
              *
              * Result : 33;
-             * Result : 55;
+             * Result : 55;+++++++
              * Result : 66;
              * ******************
              * 3. Boyuk beraberdir  ve beraber deyildir operatorlari hansilardir.
@@ -190,7 +224,7 @@ namespace Week3.Tasks
              * =! , ==
              * == , <=
              * >= , <=
-             * >= , !=
+             * >= , !=  ++++++++++
              */
 
             #endregion
