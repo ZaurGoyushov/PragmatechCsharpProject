@@ -188,3 +188,5 @@ Csharp-02 , start  06/03/21
 
 ### Resources
 - [C# 9.0: Improved Pattern Matching](https://www.thomasclaudiushuber.com/2021/02/18/c-9-0-improved-pattern-matching/)
+- [Intro To Pattern Matching - Covers C# 9](https://www.c-sharpcorner.com/article/intro-to-pattern-matching-covers-c-sharp-9/)
+- [C# 9 simple type pattern](https://gist.github.com/AnthonyGiretti/56fbba3afefaea2356097e682f73ad23)
