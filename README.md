@@ -171,3 +171,20 @@ Csharp-02 , start  06/03/21
 ### Tasks
    - [Week3.Tasks](https://github.com/PragmatechEducation/CSharp_02/blob/main/Week3.Tasks/Program.cs)
 
+
+
+# Week04-Day01 03/04/21
+
+### Topics
+    - C# Pattern Matching
+    - -Type Pattern
+    - -Constant Pattern
+    - -Var Pattern
+    - -Recursive Pattern
+
+
+### Tasks
+   - 
+
+### Resources
+- [C# 9.0: Improved Pattern Matching](https://www.thomasclaudiushuber.com/2021/02/18/c-9-0-improved-pattern-matching/)
