@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\source\\repos\\PragmatechEducation\\CSharp_02\\DataTypes\\DataTypes.csproj": {}
+    "C:\\Users\\Asus\\Source\\Repos\\PragmatechEducation\\Csharp_02\\DataTypes\\DataTypes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\source\\repos\\PragmatechEducation\\CSharp_02\\DataTypes\\DataTypes.csproj": {
+    "C:\\Users\\Asus\\Source\\Repos\\PragmatechEducation\\Csharp_02\\DataTypes\\DataTypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\PragmatechEducation\\CSharp_02\\DataTypes\\DataTypes.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Source\\Repos\\PragmatechEducation\\Csharp_02\\DataTypes\\DataTypes.csproj",
         "projectName": "DataTypes",
-        "projectPath": "C:\\Users\\Asus\\source\\repos\\PragmatechEducation\\CSharp_02\\DataTypes\\DataTypes.csproj",
+        "projectPath": "C:\\Users\\Asus\\Source\\Repos\\PragmatechEducation\\Csharp_02\\DataTypes\\DataTypes.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\source\\repos\\PragmatechEducation\\CSharp_02\\DataTypes\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\Source\\Repos\\PragmatechEducation\\Csharp_02\\DataTypes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
