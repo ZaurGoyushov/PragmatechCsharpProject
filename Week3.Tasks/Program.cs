@@ -12,7 +12,7 @@ namespace Week3.Tasks
             /*
              * 1. Istifadeciden gelen 3 ferqli imtahan neticelerinin
              * ortalamasinin 45-den  boyuk ve ya beraber olmasini
-             * yoxlayin.
+             * yoxlayin..
              *
              * qeyd : if else istifade etmeyin burada
              * 
