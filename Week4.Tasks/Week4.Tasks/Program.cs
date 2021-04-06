@@ -17,6 +17,8 @@ namespace Week4.Tasks
              */
             //int[] intArray = { 2, 9, 4, 3, 5, 1, 7 };
 
+         
+
             #endregion
 
             #region 2.
@@ -55,6 +57,32 @@ namespace Week4.Tasks
              * 1 eded 5 azn
              *
              */
+            //-------------------------- Solution
+            /*
+             while (true)
+            {
+                int[] Valyuta = new int[7] { 200, 100, 50, 20, 10, 5, 1 }; //Array kimi teyin edende error verir
+                Console.Write(" Meblegi daxil edin : ");
+                string Reader = Console.ReadLine();
+                if (Reader == "" || Reader==" "){
+                
+                        Console.WriteLine("mebleği düzgün daxil edin"); 
+                }
+                               
+                else
+                {       int Pul=int.Parse(Reader);
+                        for (int i = 0; i < Valyuta.Length; i++)
+                        {
+                            if (Pul >= Valyuta[i])
+                            {
+                                int bankNotesCount = Pul / Valyuta[i];
+                                Pul -= bankNotesCount * Valyuta[i];
+                                Console.WriteLine(bankNotesCount + " - " + Valyuta[i]);
+                            }
+                        }
+                }
+            }
+            */
 
             #endregion
 

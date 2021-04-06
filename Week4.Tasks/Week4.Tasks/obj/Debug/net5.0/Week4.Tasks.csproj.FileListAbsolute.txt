@@ -1,0 +1,16 @@
+C:\Users\Pragmatech\source\repos\MyTasks\Week4.Tasks\Week4.Tasks\bin\Debug\net5.0\Week4.Tasks.exe
+C:\Users\Pragmatech\source\repos\MyTasks\Week4.Tasks\Week4.Tasks\bin\Debug\net5.0\Week4.Tasks.deps.json
+C:\Users\Pragmatech\source\repos\MyTasks\Week4.Tasks\Week4.Tasks\bin\Debug\net5.0\Week4.Tasks.runtimeconfig.json
+C:\Users\Pragmatech\source\repos\MyTasks\Week4.Tasks\Week4.Tasks\bin\Debug\net5.0\Week4.Tasks.runtimeconfig.dev.json
+C:\Users\Pragmatech\source\repos\MyTasks\Week4.Tasks\Week4.Tasks\bin\Debug\net5.0\Week4.Tasks.dll
+C:\Users\Pragmatech\source\repos\MyTasks\Week4.Tasks\Week4.Tasks\bin\Debug\net5.0\ref\Week4.Tasks.dll
+C:\Users\Pragmatech\source\repos\MyTasks\Week4.Tasks\Week4.Tasks\bin\Debug\net5.0\Week4.Tasks.pdb
+C:\Users\Pragmatech\source\repos\MyTasks\Week4.Tasks\Week4.Tasks\obj\Debug\net5.0\Week4.Tasks.csprojAssemblyReference.cache
+C:\Users\Pragmatech\source\repos\MyTasks\Week4.Tasks\Week4.Tasks\obj\Debug\net5.0\Week4.Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pragmatech\source\repos\MyTasks\Week4.Tasks\Week4.Tasks\obj\Debug\net5.0\Week4.Tasks.AssemblyInfoInputs.cache
+C:\Users\Pragmatech\source\repos\MyTasks\Week4.Tasks\Week4.Tasks\obj\Debug\net5.0\Week4.Tasks.AssemblyInfo.cs
+C:\Users\Pragmatech\source\repos\MyTasks\Week4.Tasks\Week4.Tasks\obj\Debug\net5.0\Week4.Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Pragmatech\source\repos\MyTasks\Week4.Tasks\Week4.Tasks\obj\Debug\net5.0\Week4.Tasks.dll
+C:\Users\Pragmatech\source\repos\MyTasks\Week4.Tasks\Week4.Tasks\obj\Debug\net5.0\ref\Week4.Tasks.dll
+C:\Users\Pragmatech\source\repos\MyTasks\Week4.Tasks\Week4.Tasks\obj\Debug\net5.0\Week4.Tasks.pdb
+C:\Users\Pragmatech\source\repos\MyTasks\Week4.Tasks\Week4.Tasks\obj\Debug\net5.0\Week4.Tasks.genruntimeconfig.cache
