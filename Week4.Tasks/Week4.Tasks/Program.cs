@@ -90,7 +90,19 @@ namespace Week4.Tasks
             /*
              * 1-10 qeder tek ededlerin kublarinin cemini yazin.
              */
-
+            //***********************solution
+            /*
+                int cem = 0;
+                for (int i = 1; i <= 10; i++)
+                {
+                    if (i % 2 != 0)
+                    {
+                        cem +=(i * i * i);
+                    }
+                }
+                Console.WriteLine("1-10 qeder tek ededlerin kublarinin cemi: {0} ", cem);
+                 
+            */
 
             #endregion
 
@@ -99,7 +111,41 @@ namespace Week4.Tasks
              * dogum tarixini daxil eden istifedecinin
              * yasini hesablayib ekrana cap edin
              */
+             //************************* Solution 
 
+             /*
+            DateTime today = DateTime.Today;
+            Console.WriteLine("dogum tarixinizi daxil edin (gun,ay,il) : ");
+            string birthDay=  Console.ReadLine();
+            string[] birthDayArray = new string[3];
+            birthDay.Split(',','.',' ').CopyTo(birthDayArray, 0);
+            var age = today.Year - Convert.ToInt32(birthDayArray[2]);
+            if (Convert.ToInt32(birthDayArray[1]) < today.Month)
+            {
+                Console.WriteLine("Sizin yashiniz : {0} ",age);
+
+            }
+            else if(Convert.ToInt32(birthDayArray[1]) == today.Month){
+
+                if (Convert.ToInt32(birthDayArray[0]) <= today.Day) { 
+
+                     Console.WriteLine("Sizin yashiniz : {0} ",age);
+                
+                }
+                else
+                {
+                    age--;
+                    Console.WriteLine("Sizin yashiniz : {0} ",age);
+                }
+
+            }
+            else
+            {
+                age--;
+                Console.WriteLine("Sizin yashiniz : {0} ",age);
+                
+            }
+            */
 
             #endregion
 
@@ -108,7 +154,35 @@ namespace Week4.Tasks
              * istifadeci terefinden daxil edilen iki musbet ededin hasilini vurma emeliyyati ile
              * deyil toplama emeliyyati ile ekrana cap edin.
              */
-
+            //+++++++++++++++solution
+            /*
+            int cem = 0;
+                int vurulan = 0;
+                int vuran = 0;
+                while (true)
+                {
+                    Console.WriteLine("Birinci vurugu elave edin : ");
+                     vurulan = Convert.ToInt32(Console.ReadLine());
+                    if (vurulan <= 0)
+                        Console.Write("Zehmet olmasa musbet eded daxil edin. ");
+                    else
+                        break;
+                }
+                while (true)
+                {
+                    Console.WriteLine("Ikinci vurugu elave edin : ");
+                     vuran = Convert.ToInt32(Console.ReadLine());
+                    if (vuran <= 0)
+                        Console.Write(" Zehmet olmasa musbet eded daxil edin. ");
+                    else
+                        break;
+                }
+                for (var i = vuran; i > 0; i--)
+                {
+                    cem += vurulan;
+                }
+                Console.WriteLine("Daxil edilen vuruqlarin hasili : " +cem);
+            */
 
             #endregion
             #endregion
